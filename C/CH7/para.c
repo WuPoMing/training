@@ -27,4 +27,3 @@ void list(char ch, int count)
 		printf("%c", ch);
 	printf("\n");
 	}
-

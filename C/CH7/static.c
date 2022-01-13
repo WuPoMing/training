@@ -27,5 +27,3 @@ void test(void)
     printf(" auto_var = %d  static_var = %d\n",
 			 auto_var++, static_var++);
 	}
-
-

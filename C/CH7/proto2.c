@@ -48,4 +48,3 @@ char level(float a1, float a2, float a3)
 		return ('D');
 	return ('E');
 	}
-

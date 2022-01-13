@@ -65,5 +65,3 @@ void default_fun(void)
    for (i = 0; i < SIZE; i++)
 	  printf("  ary[%d] : %d\n", i, ary[i]);
    printf("\n\n");
-   }
-

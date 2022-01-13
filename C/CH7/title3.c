@@ -50,5 +50,3 @@ void choose(char ch)
 			printf("FOUR");
 		}
 	}
-
-

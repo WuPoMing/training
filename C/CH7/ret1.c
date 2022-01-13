@@ -42,5 +42,3 @@ int find_max(int x, int y)
 	else
 		return (y);
 	}
-
-

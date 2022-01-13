@@ -56,6 +56,3 @@ void title(void)
 	printf(" [1] one    [2] two\n");
 	printf(" [3] three  [4] four\n");
 }
-
-
-
