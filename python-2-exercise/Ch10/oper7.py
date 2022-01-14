@@ -1,0 +1,10 @@
+import numpy as np
+a = np.array([-1.7, 1.5, -0.2, 0.6, 10])
+print(a)
+print( )
+b=np.floor(a)
+print(b)
+print( )
+c=np.ceil(a)
+print(c)
+print( )

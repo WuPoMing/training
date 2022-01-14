@@ -1,0 +1,10 @@
+import numpy as np
+a =np.zeros((3,4))
+print(a)
+print("---------------")
+b = np.ones((3,4))
+print(b)
+print("---------------")
+c=np.full((3,4), 3)
+print(c)
+print("---------------")

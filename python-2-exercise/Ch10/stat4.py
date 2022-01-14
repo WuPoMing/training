@@ -1,0 +1,13 @@
+import numpy as np
+a = np.array([[0, 30,45],[60,75,90]])
+print(a)
+print( )
+b=np.mean(a)
+print(b)
+print( )
+c=np.mean(a, axis = 0)
+print(c)
+print( )
+d=np.mean(a, axis = 1)
+print(d)
+print( )

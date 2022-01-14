@@ -1,0 +1,13 @@
+import numpy as np
+x = np.linspace(1,10,6)
+print(x)
+print("--------------------")
+y=x.reshape((3,2))
+print(y)
+print("---------------")
+z=np.diag(y)
+print(z)
+print("---------------")
+w=np.diag(y, -1)
+print(w)
+print("---------------")
