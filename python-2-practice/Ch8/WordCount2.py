@@ -19,5 +19,8 @@ for wd in songList:             # 將歌曲串列處理成字典
     else:
         dict[wd] = 1            # 第一次出現的字建立此鍵與值
     
-print("單字及出現次數")
-print(dict)                     # 列印字典
+# print("單字及出現次數")
+# print(dict)                     # 列印字典
+
+for wd in dict.keys():
+    print("%s出現%d次" %(wd, dict[wd]))
