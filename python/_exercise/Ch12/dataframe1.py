@@ -9,8 +9,6 @@ print('--------------------')
 df3 = pd.DataFrame(data, index=range(1,5), columns=(['Name','Gender']))
 print(df3)
 print('--------------------')
-df4 = pd.DataFrame(data, index=range(1,5), columns=(['Name','age']))
+df4 = pd.DataFrame(data, index=range(1,5), columns=(['Name','Age']))
 print(df4)
 print('--------------------')
-
-
